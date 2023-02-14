@@ -1,8 +1,7 @@
 .container {
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(to top right, #0065b8 10%, #00bdd6 100%);
-  color: #fff;
+  background-image: linear-gradient(to top right, #1f8feb 10%, #0ccee7 100%);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,11 +10,13 @@
 
 .container h1 {
   font-size: 4rem;
+  color: #252525;
 }
 
 .container span {
   font-size: 3rem;
   margin: 2rem 0;
+  color: #252525;
 }
 
 .buttons button {

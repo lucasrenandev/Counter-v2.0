@@ -16,12 +16,12 @@ export default function App() {
 
   function resetCount() {
     setCount(0)
-    document.getElementById("count").style.color = "#fff"
+    document.getElementById("count").style.color = "#252525"
   }
 
   return (
       <div className="container">
-        <h1>Contador</h1>
+        <h1>Counter</h1>
 
         <span id='count'>{count}</span>
 
