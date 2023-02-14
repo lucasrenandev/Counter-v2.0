@@ -1,2 +1,2 @@
 # Counter-v2.0
-Contador desenvolvido com React 
+Contador desenvolvido com React JS
