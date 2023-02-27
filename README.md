@@ -1,3 +1,3 @@
 ## Contador desenvolvido com ReactJS
 
-![countbanner](https://user-images.githubusercontent.com/97764446/220472415-5a478922-2937-4cb5-b029-43933806ed48.png)
+![counter](https://user-images.githubusercontent.com/97764446/221705463-f1a4ab4b-7e00-46a0-815d-9394976a06fc.png)
