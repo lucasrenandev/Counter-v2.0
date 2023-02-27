@@ -13,7 +13,7 @@
   color: #252525;
 }
 
-.container span {
+.container h2 {
   font-size: 3rem;
   margin: 2rem 0;
   color: #252525;
@@ -34,11 +34,11 @@
 }
 
 .buttons button:nth-child(1) {
-  background-color: #00b900;
+  background-color: #00d700;
 }
 
 .buttons button:nth-child(2) {
-  background-color: #3f3f3f;
+  background-color: #252525;
 }
 
 .buttons button:nth-child(3) {

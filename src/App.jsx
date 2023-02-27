@@ -6,7 +6,7 @@ export default function App() {
 
   function incrementCount() {
     setCount(count + 1) 
-    document.getElementById("count").style.color = "#00d600"
+    document.getElementById("count").style.color = "#00d700"
   }
 
   function decrementCount() {
@@ -23,13 +23,13 @@ export default function App() {
       <div className="container">
         <h1>Counter</h1>
 
-        <span id='count'>{count}</span>
+        <h2 id='count'>{count}</h2>
 
         <div className="buttons">
           <button type='button' onClick={incrementCount}>Increment</button>
           <button type='button' onClick={resetCount}>Reset</button>
           <button type='button' onClick={decrementCount}>Decrement</button>
-        </div>{/*End buttons */}
+        </div>{/*End buttons*/}
       </div>//End container
   ) 
 }
